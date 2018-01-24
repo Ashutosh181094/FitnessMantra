@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.kiit.fitness1.MainActivity"
+    android:background="#f1ecec">
+    <include layout="@layout/nav_action_bar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+    </include>
+
+    <android.support.v7.widget.RecyclerView
+
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+
+</LinearLayout>
+   <include layout="@layout/single_item_navigation_drawer"
+       android:layout_width="140dp"
+       android:layout_height="match_parent"
+       android:layout_gravity="left"
+       >
+
+   </include>
+</android.support.v4.widget.DrawerLayout>

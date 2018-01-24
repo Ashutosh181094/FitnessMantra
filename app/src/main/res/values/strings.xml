@@ -1,0 +1,384 @@
+<resources>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="myapp_name">Fitness Monster</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_recommended">Map</string>
+    <string-array name="Asparagus">
+        <item>Protien Content:   2.2gm</item>
+        <item>Calorie Content:   20cal</item>
+        <item>Carbs Content:     3.9gm</item>
+    </string-array>
+    <string-array name="ArtichokeHeart">
+        <item>Protien Content:   3.3gm</item>
+        <item>Calorie Content:   47cal</item>
+        <item>Carbs Content:     11gm</item>
+    </string-array>
+
+    <string-array name="Spinach">
+        <item>Protien Content:   2.9gm</item>
+        <item>Calorie Content:   23cal</item>
+        <item>Carbs Content:     3.6gm</item>
+    </string-array>
+    <string-array name="Carrot">
+        <item>Protien Content:   0.9gm</item>
+        <item>Calorie Content:   41cal</item>
+        <item>Carbs Content:     10gm</item>
+    </string-array>
+    <string-array name="Celery">
+        <item>Protien Content:   0.7gm</item>
+        <item>Calorie Content:   16cal</item>
+        <item>Carbs Content:     3gm</item>
+    </string-array>
+    <string-array name="Broccoli">
+        <item>Protien Content:   2.8gm</item>
+        <item>Calorie Content:   10cal</item>
+        <item>Carbs Content:     34gm</item>
+    </string-array>
+    <string-array name="Zucchini">
+        <item>Protien Content:   1.2gm</item>
+        <item>Calorie Content:   17cal</item>
+        <item>Carbs Content:     3.1gm</item>
+    </string-array>
+    <string-array name="Cauliflower">
+        <item>Protien Content:   1.9gm</item>
+        <item>Calorie Content:   25cal</item>
+        <item>Carbs Content:     5gm</item>
+    </string-array>
+    <string-array name="Parsley">
+        <item>Protien Content:   3gm</item>
+        <item>Calorie Content:   36cal</item>
+        <item>Carbs Content:     6gm</item>
+    </string-array>
+    <string-array name="Brinjal">
+        <item>Protien Content:   1gm</item>
+        <item>Calorie Content:   25cal</item>
+        <item>Carbs Content:     6gm</item>
+    </string-array>
+    <string-array name="SpringOnion">
+        <item>Protien Content:   1.8gm</item>
+        <item>Calorie Content:   32cal</item>
+        <item>Carbs Content:     7gm</item>
+    </string-array>
+    <string-array name="peas">
+        <item>Protien Content:   5gm</item>
+        <item>Calorie Content:   81cal</item>
+        <item>Carbs Content:     14gm</item>
+    </string-array>
+    <string-array name="Potato">
+        <item>Protien Content:   2gm</item>
+        <item>Calorie Content:   77cal</item>
+        <item>Carbs Content:     17gm</item>
+    </string-array>
+
+    <string-array name="Apple">
+        <item>Protien Content:   0.3gm</item>
+        <item>Calorie Content:   52cal</item>
+        <item>Carbs Content:     14gm</item>
+    </string-array>
+    <string-array name="Avacado">
+        <item>Protien Content:   2gm</item>
+        <item>Calorie Content:   160cal</item>
+        <item>Carbs Content:     9gm</item>
+    </string-array>
+    <string-array name="Mulberry">
+        <item>Protien Content:   1.4gm</item>
+        <item>Calorie Content:   43cal</item>
+        <item>Carbs Content:     10gm</item>
+    </string-array>
+    <string-array name="Papaya">
+        <item>Protien Content:   0.5gm</item>
+        <item>Calorie Content:   43cal</item>
+        <item>Carbs Content:     11gm</item>
+    </string-array>
+    <string-array name="Peach">
+        <item>Protien Content:   0.9gm</item>
+        <item>Calorie Content:   39cal</item>
+        <item>Carbs Content:     10gm</item>
+    </string-array>
+    <string-array name="Plum">
+        <item>Protien Content:   0.7gm</item>
+        <item>Calorie Content:   46cal</item>
+        <item>Carbs Content:     11gm</item>
+    </string-array>
+    <string-array name="Guava">
+        <item>Protien Content:   2.6gm</item>
+        <item>Calorie Content:   68cal</item>
+        <item>Carbs Content:     14gm</item>
+    </string-array>
+    <string-array name="Apricot">
+        <item>Protien Content:   1.4gm</item>
+        <item>Calorie Content:   48cal</item>
+        <item>Carbs Content:     11gm</item>
+    </string-array>
+    <string-array name="Fig">
+        <item>Protien Content:   0.4gm</item>
+        <item>Calorie Content:   107cal</item>
+        <item>Carbs Content:     28gm</item>
+    </string-array>
+    <string-array name="Banana">
+        <item>Protien Content:   1.1gm</item>
+        <item>Calorie Content:   89cal</item>
+        <item>Carbs Content:     23gm</item>
+    </string-array>
+    <string-array name="Strawberry">
+        <item>Protien Content:   0.7gm</item>
+        <item>Calorie Content:   33cal</item>
+        <item>Carbs Content:     8gm</item>
+    </string-array>
+    <string-array name="Muskmelon">
+        <item>Protien Content:   0.8gm</item>
+        <item>Calorie Content:   34cal</item>
+        <item>Carbs Content:     8gm</item>
+    </string-array>
+    <string-array name="Lychee">
+        <item>Protien Content:   0.8gm</item>
+        <item>Calorie Content:   66cal</item>
+        <item>Carbs Content:     17gm</item>
+    </string-array>
+    <string-array name="kiwi">
+        <item>Protien Content:   1.1gm</item>
+        <item>Calorie Content:   61cal</item>
+        <item>Carbs Content:     15gm</item>
+    </string-array>
+    <string-array name="Watermelon">
+        <item>Protien Content:   0.6gm</item>
+        <item>Calorie Content:   30cal</item>
+        <item>Carbs Content:     8gm</item>
+    </string-array>
+    <string-array name="ChickenBreast">
+        <item>Protien Content:   31gm</item>
+        <item>Calorie Content:   165cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Pork">
+        <item>Protien Content:   27gm</item>
+        <item>Calorie Content:   242cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Lamb">
+        <item>Protien Content:   25gm</item>
+        <item>Calorie Content:   294cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Rabbit">
+        <item>Protien Content:   30.38gm</item>
+        <item>Calorie Content:   146cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Veal">
+        <item>Protien Content:   24gm</item>
+        <item>Calorie Content:   172cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Bacon">
+        <item>Protien Content:   37gm</item>
+        <item>Calorie Content:   541cal</item>
+        <item>Carbs Content:     1.4gm</item>
+    </string-array>
+    <string-array name="Beef">
+        <item>Protien Content:   26gm</item>
+        <item>Calorie Content:   250cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Buffalo">
+        <item>Protien Content:   21.62gm</item>
+        <item>Calorie Content:   82cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Cheese">
+        <item>Protien Content:   28gm</item>
+        <item>Calorie Content:   280cal</item>
+        <item>Carbs Content:     3.1gm</item>
+    </string-array>
+    <string-array name="CondensedMilk">
+        <item>Protien Content:   8gm</item>
+        <item>Calorie Content:   321cal</item>
+        <item>Carbs Content:     54gm</item>
+    </string-array>
+    <string-array name="WhippedCream">
+        <item>Protien Content:   3.2gm</item>
+        <item>Calorie Content:   257cal</item>
+        <item>Carbs Content:     12gm</item>
+    </string-array>
+    <string-array name="EvaporatedMilk">
+        <item>Protien Content:   7gm</item>
+        <item>Calorie Content:   134cal</item>
+        <item>Carbs Content:     10gm</item>
+    </string-array>
+    <string-array name="Egg">
+        <item>Protien Content:   16gm</item>
+        <item>Calorie Content:   322cal</item>
+        <item>Carbs Content:     3.6gm</item>
+    </string-array>
+    <string-array name="GreenYoghurt">
+        <item>Protien Content:   10gm</item>
+        <item>Calorie Content:   59cal</item>
+        <item>Carbs Content:     3.6gm</item>
+    </string-array>
+    <string-array name="Paneer">
+        <item>Protien Content:   23gm</item>
+        <item>Calorie Content:   338cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Tofu">
+        <item>Protien Content:   (8/17)gm</item>
+        <item>Calorie Content:   (116/271)</item>
+        <item>Carbs Content:     (5/10)</item>
+    </string-array>
+    <string-array name="Almonds">
+        <item>Protien Content:   21gm</item>
+        <item>Calorie Content:   576cal</item>
+        <item>Carbs Content:    22gm</item>
+    </string-array>
+    <string-array name="Cashewnuts">
+        <item>Protien Content:   18gm</item>
+        <item>Calorie Content:   553cal</item>
+        <item>Carbs Content:     30gm</item>
+    </string-array>
+    <string-array name="Hazelnuts">
+        <item>Protien Content:   15gm</item>
+        <item>Calorie Content:   628cal</item>
+        <item>Carbs Content:     17gm</item>
+    </string-array>
+    <string-array name="Pecans">
+        <item>Protien Content:   9gm</item>
+        <item>Calorie Content:   690cal</item>
+        <item>Carbs Content:     14gm</item>
+    </string-array>
+    <string-array name="Pinenuts">
+        <item>Protien Content:   14gm</item>
+        <item>Calorie Content:   673cal</item>
+        <item>Carbs Content:     13gm</item>
+    </string-array>
+    <string-array name="PumpkinSeeds">
+        <item>Protien Content:   9gm</item>
+        <item>Calorie Content:   446cal</item>
+        <item>Carbs Content:     54gm</item>
+    </string-array>
+    <string-array name="Dates">
+        <item>Protien Content:   2.5gm</item>
+        <item>Calorie Content:   282cal</item>
+        <item>Carbs Content:     75gm</item>
+    </string-array>
+    <string-array name="Sunflower">
+        <item>Protien Content:   21gm</item>
+        <item>Calorie Content:   584cal</item>
+        <item>Carbs Content:     20gm</item>
+    </string-array>
+    <string-array name="DriedApricot">
+        <item>Protien Content:   3.4gm</item>
+        <item>Calorie Content:   241cal</item>
+        <item>Carbs Content:     63gm</item>
+    </string-array>
+    <string-array name="DriedFigs">
+        <item>Protien Content:   3.3gm</item>
+        <item>Calorie Content:   249cal</item>
+        <item>Carbs Content:     64gm</item>
+    </string-array>
+    <string-array name="Crab">
+        <item>Protien Content:   24gm</item>
+        <item>Calorie Content:   115cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Crayfish">
+        <item>Protien Content:   18gm</item>
+        <item>Calorie Content:   87cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Shrimp">
+        <item>Protien Content:   24gm</item>
+        <item>Calorie Content:   99cal</item>
+        <item>Carbs Content:     0.2gm</item>
+    </string-array>
+    <string-array name="Clam">
+        <item>Protien Content:   26gm</item>
+        <item>Calorie Content:   148cal</item>
+        <item>Carbs Content:     5gm</item>
+    </string-array>
+    <string-array name="Lobster">
+        <item>Protien Content:   19gm</item>
+        <item>Calorie Content:   89cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Oyster">
+        <item>Protien Content:   9gm</item>
+        <item>Calorie Content:   199cal</item>
+        <item>Carbs Content:     12gm</item>
+    </string-array>
+    <string-array name="Salmon">
+        <item>Protien Content:   20gm</item>
+        <item>Calorie Content:   208cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Sardine">
+        <item>Protien Content:   25gm</item>
+        <item>Calorie Content:   208cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Tuna">
+        <item>Protien Content:   30gm</item>
+        <item>Calorie Content:   184cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Mackerel">
+        <item>Protien Content:   19gm</item>
+        <item>Calorie Content:   305cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Prawn">
+        <item>Protien Content:   25gm</item>
+        <item>Calorie Content:   115cal</item>
+        <item>Carbs Content:     0.9gm</item>
+    </string-array>
+    <string-array name="CoconutOil">
+        <item>Protien Content:   0gm</item>
+        <item>Calorie Content:   862cal</item>
+        <item>Carbs Content:     50gm</item>
+    </string-array>
+    <string-array name="Oliveoil">
+        <item>Protien Content:   0gm</item>
+        <item>Calorie Content:   884cal</item>
+        <item>Carbs Content:     50gm</item>
+    </string-array>
+    <string-array name="Macadamiaoil">
+        <item>Protien Content:   7.91gm</item>
+        <item>Calorie Content:   718cal</item>
+        <item>Carbs Content:     13.8gm</item>
+    </string-array>
+    <string-array name="Sunfloweroil">
+        <item>Protien Content:   0gm</item>
+        <item>Calorie Content:   884cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Avocadooil">
+        <item>Protien Content:   0gm</item>
+        <item>Calorie Content:   884cal</item>
+        <item>Carbs Content:     50gm</item>
+    </string-array>
+    <string-array name="Ghee">
+        <item>Protien Content:   0.28gm</item>
+        <item>Calorie Content:   876cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Butter">
+        <item>Protien Content:   0.9gm</item>
+        <item>Calorie Content:   717cal</item>
+        <item>Carbs Content:     0.1gm</item>
+    </string-array>
+    <string-array name="Fishoil">
+        <item>Protien Content:   0gm</item>
+        <item>Calorie Content:   902cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+    <string-array name="Peanutoil">
+        <item>Protien Content:   0gm</item>
+        <item>Calorie Content:   884cal</item>
+        <item>Carbs Content:     0gm</item>
+    </string-array>
+</resources>
